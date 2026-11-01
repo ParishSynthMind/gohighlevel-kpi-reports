@@ -1,0 +1,5 @@
+requests>=2.31,<3
+SQLAlchemy>=2.0,<2.1
+anthropic>=0.40
+reportlab==4.0.9
+matplotlib>=3.8,<3.11

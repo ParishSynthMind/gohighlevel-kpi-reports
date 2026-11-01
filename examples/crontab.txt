@@ -1,0 +1,5 @@
+# Linux cron equivalent (tokens from your secret store / environment, not this file)
+# Daily sync at 06:00, weekly report + email Monday 07:00, staleness check every 6 hours.
+0 6 * * *   cd /opt/gohighlevel-kpi-reports && .venv/bin/python -m ghl_kpi sync --with-conversations
+0 7 * * 1   cd /opt/gohighlevel-kpi-reports && .venv/bin/python -m ghl_kpi report --email
+0 */6 * * * cd /opt/gohighlevel-kpi-reports && .venv/bin/python -m ghl_kpi check

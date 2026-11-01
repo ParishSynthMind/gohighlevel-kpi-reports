@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- macOS launchd example: sync + report every Monday 07:00. Edit the paths, then:
+     cp examples/com.example.ghl-kpi.plist ~/Library/LaunchAgents/ && launchctl load ~/Library/LaunchAgents/com.example.ghl-kpi.plist
+     run.sh reads the GHL token from the macOS Keychain so it never sits in a file. -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.example.ghl-kpi</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>/path/to/gohighlevel-kpi-reports/examples/run.sh</string>
+    <string>run</string>
+    <string>--with-conversations</string>
+    <string>--email</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <dict><key>Weekday</key><integer>1</integer><key>Hour</key><integer>7</integer><key>Minute</key><integer>0</integer></dict>
+  <key>StandardOutPath</key><string>/path/to/gohighlevel-kpi-reports/out/launchd.log</string>
+  <key>StandardErrorPath</key><string>/path/to/gohighlevel-kpi-reports/out/launchd.log</string>
+</dict>
+</plist>
