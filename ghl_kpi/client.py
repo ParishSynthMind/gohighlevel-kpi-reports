@@ -142,10 +142,23 @@ class GHLClient:
             box = msgs.get("messages", {})
             items = box.get("messages", []) if isinstance(box, dict) else box
             for m in items:
-                if m.get("direction") == "outbound" and m.get("dateAdded"):
+                if not is_real_outbound(m):
+                    continue
+                if m.get("dateAdded"):
                     if earliest is None or parse_ts(m["dateAdded"]) < parse_ts(earliest):
                         earliest = m["dateAdded"]
         return earliest
+
+
+# GHL writes system events into the conversation as "outbound" messages, e.g.
+# TYPE_ACTIVITY_OPPORTUNITY "Opportunity created". They are not a reply to the lead.
+NOT_A_REPLY_TYPES = {"TYPE_NO_SHOW"}
+
+
+def is_real_outbound(m: Dict) -> bool:
+    mtype = str(m.get("messageType") or "")
+    return (m.get("direction") == "outbound" and "ACTIVITY" not in mtype
+            and mtype not in NOT_A_REPLY_TYPES)
 
 
 def _ms(dt: datetime) -> int:

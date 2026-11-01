@@ -125,3 +125,17 @@ def test_cli_sync_failure_raises_and_alerts(tmp_path, monkeypatch):
     with pytest.raises(ConnectionError):
         cli.main(["sync", "--db", f"sqlite:///{tmp_path / 'x.db'}"])
     assert alerts_sent == ["GHL KPI sync FAILED"]
+
+
+def test_empty_pipeline_and_no_appointments_render_cleanly(Session, tmp_path):
+    """Seen on a live trial account: a second pipeline with no deals and no appointments at all."""
+    from ghl_kpi.db import Stage
+    with Session() as s:
+        s.add_all([Stage(id=f"x{i}", pipeline_id="px", pipeline_name="Win Back", name=f"S{i}", position=i) for i in range(3)])
+        s.commit()
+        k = compute_kpis(s, ANCHOR)
+    text = "".join(p.extract_text() for p in PdfReader(build_pdf(k, "ok", "template", str(tmp_path / "e.pdf"), "Demo", ANCHOR)).pages)
+    assert "No opportunities in this pipeline yet." in text
+    assert "No appointments in the last 8 weeks." in text
+    html = open(build_dashboard(k, "ok", str(tmp_path / "e.html"), "Demo", "now")).read()
+    assert "<h2>Win Back" not in html  # no chart cards (the raw JSON at the bottom still lists it)

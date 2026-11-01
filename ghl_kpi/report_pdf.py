@@ -77,6 +77,7 @@ def bar_chart(labels: List[str], values: List[float], title: str) -> io.BytesIO:
     fig, ax = plt.subplots(figsize=(7.2, 2.4))
     bars = ax.bar(labels, values, color=BLUE, width=0.6)
     _style_axes(ax)
+    ax.set_ylim(0, max(max(values, default=0) * 1.15, 1))  # never a negative axis, even when every week is 0
     ax.set_title(title, loc="left", fontsize=10, color=INK, pad=10)
     for b, v in zip(bars, values):
         ax.text(b.get_x() + b.get_width() / 2, b.get_height(), f"{v:g}", ha="center", va="bottom", fontsize=7.5, color=INK_2)
@@ -156,18 +157,27 @@ def build_pdf(k: Dict, summary: str, summary_source: str, path: str, business: s
         story.append(KeepTogether([src_chart, Spacer(1, 4), _table(src_rows)]))
 
     for p in k["pipelines"]:
+        if not any(r["reached"] for r in p["stages"]):
+            story.append(KeepTogether([Paragraph(f"Pipeline: {p['pipeline']}", h2),
+                                       Paragraph("No opportunities in this pipeline yet.", body)]))
+            continue
         rows = [["Stage", "Reached", "Conversion from previous", "Open now", "Open value"]] + [
             [r["stage"], r["reached"], _na(r["conversion_from_prev_pct"], "%"), r["open_count"], _fmt_money(r["open_value"])]
             for r in p["stages"]]
-        chart = hbar_chart([r["stage"] for r in p["stages"]], [r["open_value"] for r in p["stages"]],
-                           f"{p['pipeline']}: open value by stage", fmt=_fmt_money)
-        story.append(KeepTogether([Paragraph(f"Pipeline: {p['pipeline']}", h2), _table(rows), Spacer(1, 6),
-                                   Image(chart, width=170 * mm, height=(0.35 * len(p["stages"]) + 0.9) * 170 / 7.2 * mm)]))
+        block = [Paragraph(f"Pipeline: {p['pipeline']}", h2), _table(rows)]
+        if any(r["open_value"] for r in p["stages"]):
+            chart = hbar_chart([r["stage"] for r in p["stages"]], [r["open_value"] for r in p["stages"]],
+                               f"{p['pipeline']}: open value by stage", fmt=_fmt_money)
+            block += [Spacer(1, 6), Image(chart, width=170 * mm, height=(0.35 * len(p["stages"]) + 0.9) * 170 / 7.2 * mm)]
+        story.append(KeepTogether(block))
 
     aw = k["appointments_weekly"]
-    story.append(KeepTogether([Paragraph("Appointments", h2),
-                               Image(bar_chart([w["week"][5:] for w in aw], [w["appointments"] for w in aw],
-                                               "Appointments held or scheduled per week (latest week is to date)"), width=170 * mm, height=57 * mm)]))
+    if any(w["appointments"] for w in aw):
+        story.append(KeepTogether([Paragraph("Appointments", h2),
+                                   Image(bar_chart([w["week"][5:] for w in aw], [w["appointments"] for w in aw],
+                                                   "Appointments held or scheduled per week (latest week is to date)"), width=170 * mm, height=57 * mm)]))
+    else:
+        story += [Paragraph("Appointments", h2), Paragraph(f"No appointments in the last {k['weeks']} weeks.", body)]
 
     sp = k["speed_to_lead"]
     story.append(KeepTogether([Paragraph("Speed to lead", h2), Paragraph(

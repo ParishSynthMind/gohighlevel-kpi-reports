@@ -64,6 +64,9 @@ def main():
                 first = added + timedelta(minutes=mins)
                 if first < ANCHOR:
                     messages[cid] = [
+                        # GHL logs system events as outbound messages; they must not count as a reply
+                        {"id": f"msg_{cid}_act", "direction": "outbound", "dateAdded": iso(added + timedelta(seconds=2)),
+                         "messageType": "TYPE_ACTIVITY_OPPORTUNITY", "body": "Opportunity created"},
                         {"id": f"msg_{cid}_in", "direction": "inbound", "dateAdded": iso(added + timedelta(seconds=5)), "messageType": "TYPE_SMS"},
                         {"id": f"msg_{cid}_out", "direction": "outbound", "dateAdded": iso(first), "messageType": "TYPE_SMS"},
                     ]

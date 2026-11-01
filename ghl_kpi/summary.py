@@ -31,7 +31,9 @@ def template_summary(k: Dict) -> str:
         f"Open pipeline is {h['open_pipeline_value']:,.0f} across {h['open_opportunities']} opportunities.\n"
         f"Good: {top} is the biggest lead source over the last {k['weeks']} weeks.\n"
         f"Watch: win rate on closed deals is {win}; median speed to first reply is {speed}.\n"
-        f"Next step: follow up the {h['upcoming_appointments_7d']} appointments booked for the coming week."
+        + (f"Next step: follow up the {h['upcoming_appointments_7d']} appointments booked for the coming week."
+           if h["upcoming_appointments_7d"] else
+           "Next step: nothing is booked for the coming week, so the open pipeline needs follow-up calls.")
     )
 
 

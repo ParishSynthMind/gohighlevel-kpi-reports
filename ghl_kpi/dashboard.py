@@ -145,6 +145,8 @@ def build_dashboard(k: Dict, summary: str, path: str, business: str, generated: 
     ]
     for p in k["pipelines"]:
         st = p["stages"]
+        if not any(r["reached"] for r in st):
+            continue  # an empty pipeline gets no cards, just noise otherwise
         cards.append((f"{p['pipeline']}: deals reaching each stage", "Conversion from the previous stage in the table",
                       svg_rows([r["stage"] for r in st], [r["reached"] for r in st]),
                       _table(["Stage", "Reached", "Conversion", "Open now", "Open value"],

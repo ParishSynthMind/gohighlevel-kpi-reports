@@ -7081,6 +7081,13 @@
  "messages": {
   "ct_DEMO_0001": [
    {
+    "id": "msg_ct_DEMO_0001_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-09T02:43:24.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0001_in",
     "direction": "inbound",
     "dateAdded": "2026-08-09T02:43:27.000Z",
@@ -7094,6 +7101,13 @@
    }
   ],
   "ct_DEMO_0002": [
+   {
+    "id": "msg_ct_DEMO_0002_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-13T17:27:49.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0002_in",
     "direction": "inbound",
@@ -7109,6 +7123,13 @@
   ],
   "ct_DEMO_0003": [
    {
+    "id": "msg_ct_DEMO_0003_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-11T17:07:19.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0003_in",
     "direction": "inbound",
     "dateAdded": "2026-08-11T17:07:22.000Z",
@@ -7122,6 +7143,13 @@
    }
   ],
   "ct_DEMO_0004": [
+   {
+    "id": "msg_ct_DEMO_0004_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-09T14:34:28.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0004_in",
     "direction": "inbound",
@@ -7137,6 +7165,13 @@
   ],
   "ct_DEMO_0005": [
    {
+    "id": "msg_ct_DEMO_0005_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-07T18:11:00.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0005_in",
     "direction": "inbound",
     "dateAdded": "2026-08-07T18:11:03.000Z",
@@ -7150,6 +7185,13 @@
    }
   ],
   "ct_DEMO_0007": [
+   {
+    "id": "msg_ct_DEMO_0007_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-09T02:56:08.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0007_in",
     "direction": "inbound",
@@ -7165,6 +7207,13 @@
   ],
   "ct_DEMO_0009": [
    {
+    "id": "msg_ct_DEMO_0009_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-19T20:21:13.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0009_in",
     "direction": "inbound",
     "dateAdded": "2026-08-19T20:21:16.000Z",
@@ -7178,6 +7227,13 @@
    }
   ],
   "ct_DEMO_0010": [
+   {
+    "id": "msg_ct_DEMO_0010_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-21T04:32:01.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0010_in",
     "direction": "inbound",
@@ -7193,6 +7249,13 @@
   ],
   "ct_DEMO_0011": [
    {
+    "id": "msg_ct_DEMO_0011_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-16T19:43:00.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0011_in",
     "direction": "inbound",
     "dateAdded": "2026-08-16T19:43:03.000Z",
@@ -7206,6 +7269,13 @@
    }
   ],
   "ct_DEMO_0012": [
+   {
+    "id": "msg_ct_DEMO_0012_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-14T23:41:59.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0012_in",
     "direction": "inbound",
@@ -7221,6 +7291,13 @@
   ],
   "ct_DEMO_0013": [
    {
+    "id": "msg_ct_DEMO_0013_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-18T05:04:23.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0013_in",
     "direction": "inbound",
     "dateAdded": "2026-08-18T05:04:26.000Z",
@@ -7234,6 +7311,13 @@
    }
   ],
   "ct_DEMO_0014": [
+   {
+    "id": "msg_ct_DEMO_0014_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-20T18:44:36.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0014_in",
     "direction": "inbound",
@@ -7249,6 +7333,13 @@
   ],
   "ct_DEMO_0015": [
    {
+    "id": "msg_ct_DEMO_0015_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-15T02:34:54.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0015_in",
     "direction": "inbound",
     "dateAdded": "2026-08-15T02:34:57.000Z",
@@ -7262,6 +7353,13 @@
    }
   ],
   "ct_DEMO_0016": [
+   {
+    "id": "msg_ct_DEMO_0016_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-21T14:18:33.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0016_in",
     "direction": "inbound",
@@ -7277,6 +7375,13 @@
   ],
   "ct_DEMO_0017": [
    {
+    "id": "msg_ct_DEMO_0017_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-19T00:55:35.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0017_in",
     "direction": "inbound",
     "dateAdded": "2026-08-19T00:55:38.000Z",
@@ -7290,6 +7395,13 @@
    }
   ],
   "ct_DEMO_0018": [
+   {
+    "id": "msg_ct_DEMO_0018_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-21T05:02:11.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0018_in",
     "direction": "inbound",
@@ -7305,6 +7417,13 @@
   ],
   "ct_DEMO_0019": [
    {
+    "id": "msg_ct_DEMO_0019_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-15T16:22:01.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0019_in",
     "direction": "inbound",
     "dateAdded": "2026-08-15T16:22:04.000Z",
@@ -7318,6 +7437,13 @@
    }
   ],
   "ct_DEMO_0020": [
+   {
+    "id": "msg_ct_DEMO_0020_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-24T23:22:37.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0020_in",
     "direction": "inbound",
@@ -7333,6 +7459,13 @@
   ],
   "ct_DEMO_0022": [
    {
+    "id": "msg_ct_DEMO_0022_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-25T04:01:29.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0022_in",
     "direction": "inbound",
     "dateAdded": "2026-08-25T04:01:32.000Z",
@@ -7346,6 +7479,13 @@
    }
   ],
   "ct_DEMO_0023": [
+   {
+    "id": "msg_ct_DEMO_0023_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-28T06:10:30.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0023_in",
     "direction": "inbound",
@@ -7361,6 +7501,13 @@
   ],
   "ct_DEMO_0024": [
    {
+    "id": "msg_ct_DEMO_0024_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-22T23:18:22.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0024_in",
     "direction": "inbound",
     "dateAdded": "2026-08-22T23:18:25.000Z",
@@ -7374,6 +7521,13 @@
    }
   ],
   "ct_DEMO_0025": [
+   {
+    "id": "msg_ct_DEMO_0025_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-23T16:26:59.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0025_in",
     "direction": "inbound",
@@ -7389,6 +7543,13 @@
   ],
   "ct_DEMO_0026": [
    {
+    "id": "msg_ct_DEMO_0026_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-26T19:33:24.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0026_in",
     "direction": "inbound",
     "dateAdded": "2026-08-26T19:33:27.000Z",
@@ -7402,6 +7563,13 @@
    }
   ],
   "ct_DEMO_0027": [
+   {
+    "id": "msg_ct_DEMO_0027_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-23T11:06:55.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0027_in",
     "direction": "inbound",
@@ -7417,6 +7585,13 @@
   ],
   "ct_DEMO_0028": [
    {
+    "id": "msg_ct_DEMO_0028_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-25T02:18:11.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0028_in",
     "direction": "inbound",
     "dateAdded": "2026-08-25T02:18:14.000Z",
@@ -7430,6 +7605,13 @@
    }
   ],
   "ct_DEMO_0029": [
+   {
+    "id": "msg_ct_DEMO_0029_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-23T15:45:07.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0029_in",
     "direction": "inbound",
@@ -7445,6 +7627,13 @@
   ],
   "ct_DEMO_0030": [
    {
+    "id": "msg_ct_DEMO_0030_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-24T04:00:01.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0030_in",
     "direction": "inbound",
     "dateAdded": "2026-08-24T04:00:04.000Z",
@@ -7458,6 +7647,13 @@
    }
   ],
   "ct_DEMO_0031": [
+   {
+    "id": "msg_ct_DEMO_0031_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-21T23:12:04.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0031_in",
     "direction": "inbound",
@@ -7473,6 +7669,13 @@
   ],
   "ct_DEMO_0032": [
    {
+    "id": "msg_ct_DEMO_0032_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-24T03:59:58.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0032_in",
     "direction": "inbound",
     "dateAdded": "2026-08-24T04:00:01.000Z",
@@ -7486,6 +7689,13 @@
    }
   ],
   "ct_DEMO_0034": [
+   {
+    "id": "msg_ct_DEMO_0034_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-26T10:56:46.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0034_in",
     "direction": "inbound",
@@ -7501,6 +7711,13 @@
   ],
   "ct_DEMO_0035": [
    {
+    "id": "msg_ct_DEMO_0035_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-03T21:53:29.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0035_in",
     "direction": "inbound",
     "dateAdded": "2026-09-03T21:53:32.000Z",
@@ -7514,6 +7731,13 @@
    }
   ],
   "ct_DEMO_0036": [
+   {
+    "id": "msg_ct_DEMO_0036_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-04T12:09:28.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0036_in",
     "direction": "inbound",
@@ -7529,6 +7753,13 @@
   ],
   "ct_DEMO_0038": [
    {
+    "id": "msg_ct_DEMO_0038_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-30T09:20:16.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0038_in",
     "direction": "inbound",
     "dateAdded": "2026-08-30T09:20:19.000Z",
@@ -7542,6 +7773,13 @@
    }
   ],
   "ct_DEMO_0039": [
+   {
+    "id": "msg_ct_DEMO_0039_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-01T15:48:02.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0039_in",
     "direction": "inbound",
@@ -7557,6 +7795,13 @@
   ],
   "ct_DEMO_0040": [
    {
+    "id": "msg_ct_DEMO_0040_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-28T23:26:40.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0040_in",
     "direction": "inbound",
     "dateAdded": "2026-08-28T23:26:43.000Z",
@@ -7570,6 +7815,13 @@
    }
   ],
   "ct_DEMO_0041": [
+   {
+    "id": "msg_ct_DEMO_0041_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-03T03:22:03.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0041_in",
     "direction": "inbound",
@@ -7585,6 +7837,13 @@
   ],
   "ct_DEMO_0042": [
    {
+    "id": "msg_ct_DEMO_0042_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-29T09:18:52.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0042_in",
     "direction": "inbound",
     "dateAdded": "2026-08-29T09:18:55.000Z",
@@ -7598,6 +7857,13 @@
    }
   ],
   "ct_DEMO_0043": [
+   {
+    "id": "msg_ct_DEMO_0043_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-31T22:54:14.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0043_in",
     "direction": "inbound",
@@ -7613,6 +7879,13 @@
   ],
   "ct_DEMO_0044": [
    {
+    "id": "msg_ct_DEMO_0044_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-28T17:55:30.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0044_in",
     "direction": "inbound",
     "dateAdded": "2026-08-28T17:55:33.000Z",
@@ -7626,6 +7899,13 @@
    }
   ],
   "ct_DEMO_0045": [
+   {
+    "id": "msg_ct_DEMO_0045_act",
+    "direction": "outbound",
+    "dateAdded": "2026-08-30T12:37:32.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0045_in",
     "direction": "inbound",
@@ -7641,6 +7921,13 @@
   ],
   "ct_DEMO_0046": [
    {
+    "id": "msg_ct_DEMO_0046_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-02T10:28:56.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0046_in",
     "direction": "inbound",
     "dateAdded": "2026-09-02T10:28:59.000Z",
@@ -7654,6 +7941,13 @@
    }
   ],
   "ct_DEMO_0047": [
+   {
+    "id": "msg_ct_DEMO_0047_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-02T21:36:55.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0047_in",
     "direction": "inbound",
@@ -7669,6 +7963,13 @@
   ],
   "ct_DEMO_0048": [
    {
+    "id": "msg_ct_DEMO_0048_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-02T23:35:46.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0048_in",
     "direction": "inbound",
     "dateAdded": "2026-09-02T23:35:49.000Z",
@@ -7682,6 +7983,13 @@
    }
   ],
   "ct_DEMO_0049": [
+   {
+    "id": "msg_ct_DEMO_0049_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-04T14:53:45.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0049_in",
     "direction": "inbound",
@@ -7697,6 +8005,13 @@
   ],
   "ct_DEMO_0050": [
    {
+    "id": "msg_ct_DEMO_0050_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-11T12:08:59.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0050_in",
     "direction": "inbound",
     "dateAdded": "2026-09-11T12:09:02.000Z",
@@ -7710,6 +8025,13 @@
    }
   ],
   "ct_DEMO_0051": [
+   {
+    "id": "msg_ct_DEMO_0051_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-08T06:41:20.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0051_in",
     "direction": "inbound",
@@ -7725,6 +8047,13 @@
   ],
   "ct_DEMO_0052": [
    {
+    "id": "msg_ct_DEMO_0052_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-08T05:29:19.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0052_in",
     "direction": "inbound",
     "dateAdded": "2026-09-08T05:29:22.000Z",
@@ -7738,6 +8067,13 @@
    }
   ],
   "ct_DEMO_0053": [
+   {
+    "id": "msg_ct_DEMO_0053_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-10T12:31:45.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0053_in",
     "direction": "inbound",
@@ -7753,6 +8089,13 @@
   ],
   "ct_DEMO_0054": [
    {
+    "id": "msg_ct_DEMO_0054_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-10T00:24:05.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0054_in",
     "direction": "inbound",
     "dateAdded": "2026-09-10T00:24:08.000Z",
@@ -7766,6 +8109,13 @@
    }
   ],
   "ct_DEMO_0055": [
+   {
+    "id": "msg_ct_DEMO_0055_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-06T14:49:45.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0055_in",
     "direction": "inbound",
@@ -7781,6 +8131,13 @@
   ],
   "ct_DEMO_0056": [
    {
+    "id": "msg_ct_DEMO_0056_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-08T18:55:26.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0056_in",
     "direction": "inbound",
     "dateAdded": "2026-09-08T18:55:29.000Z",
@@ -7794,6 +8151,13 @@
    }
   ],
   "ct_DEMO_0057": [
+   {
+    "id": "msg_ct_DEMO_0057_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-06T14:52:02.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0057_in",
     "direction": "inbound",
@@ -7809,6 +8173,13 @@
   ],
   "ct_DEMO_0058": [
    {
+    "id": "msg_ct_DEMO_0058_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-08T23:33:01.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0058_in",
     "direction": "inbound",
     "dateAdded": "2026-09-08T23:33:04.000Z",
@@ -7822,6 +8193,13 @@
    }
   ],
   "ct_DEMO_0060": [
+   {
+    "id": "msg_ct_DEMO_0060_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-08T23:27:26.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0060_in",
     "direction": "inbound",
@@ -7837,6 +8215,13 @@
   ],
   "ct_DEMO_0061": [
    {
+    "id": "msg_ct_DEMO_0061_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-06T16:46:13.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0061_in",
     "direction": "inbound",
     "dateAdded": "2026-09-06T16:46:16.000Z",
@@ -7850,6 +8235,13 @@
    }
   ],
   "ct_DEMO_0062": [
+   {
+    "id": "msg_ct_DEMO_0062_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-07T13:02:18.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0062_in",
     "direction": "inbound",
@@ -7865,6 +8257,13 @@
   ],
   "ct_DEMO_0063": [
    {
+    "id": "msg_ct_DEMO_0063_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-06T16:03:11.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0063_in",
     "direction": "inbound",
     "dateAdded": "2026-09-06T16:03:14.000Z",
@@ -7878,6 +8277,13 @@
    }
   ],
   "ct_DEMO_0064": [
+   {
+    "id": "msg_ct_DEMO_0064_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-17T21:19:07.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0064_in",
     "direction": "inbound",
@@ -7893,6 +8299,13 @@
   ],
   "ct_DEMO_0065": [
    {
+    "id": "msg_ct_DEMO_0065_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-17T19:13:12.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0065_in",
     "direction": "inbound",
     "dateAdded": "2026-09-17T19:13:15.000Z",
@@ -7906,6 +8319,13 @@
    }
   ],
   "ct_DEMO_0066": [
+   {
+    "id": "msg_ct_DEMO_0066_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-14T00:15:20.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0066_in",
     "direction": "inbound",
@@ -7921,6 +8341,13 @@
   ],
   "ct_DEMO_0067": [
    {
+    "id": "msg_ct_DEMO_0067_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-13T18:18:35.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0067_in",
     "direction": "inbound",
     "dateAdded": "2026-09-13T18:18:38.000Z",
@@ -7934,6 +8361,13 @@
    }
   ],
   "ct_DEMO_0068": [
+   {
+    "id": "msg_ct_DEMO_0068_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-13T18:35:33.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0068_in",
     "direction": "inbound",
@@ -7949,6 +8383,13 @@
   ],
   "ct_DEMO_0069": [
    {
+    "id": "msg_ct_DEMO_0069_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-13T18:44:35.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0069_in",
     "direction": "inbound",
     "dateAdded": "2026-09-13T18:44:38.000Z",
@@ -7962,6 +8403,13 @@
    }
   ],
   "ct_DEMO_0070": [
+   {
+    "id": "msg_ct_DEMO_0070_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-16T01:17:30.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0070_in",
     "direction": "inbound",
@@ -7977,6 +8425,13 @@
   ],
   "ct_DEMO_0073": [
    {
+    "id": "msg_ct_DEMO_0073_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-16T19:47:39.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0073_in",
     "direction": "inbound",
     "dateAdded": "2026-09-16T19:47:42.000Z",
@@ -7990,6 +8445,13 @@
    }
   ],
   "ct_DEMO_0074": [
+   {
+    "id": "msg_ct_DEMO_0074_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-12T02:51:22.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0074_in",
     "direction": "inbound",
@@ -8005,6 +8467,13 @@
   ],
   "ct_DEMO_0075": [
    {
+    "id": "msg_ct_DEMO_0075_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-13T07:42:44.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0075_in",
     "direction": "inbound",
     "dateAdded": "2026-09-13T07:42:47.000Z",
@@ -8018,6 +8487,13 @@
    }
   ],
   "ct_DEMO_0076": [
+   {
+    "id": "msg_ct_DEMO_0076_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-17T06:52:50.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0076_in",
     "direction": "inbound",
@@ -8033,6 +8509,13 @@
   ],
   "ct_DEMO_0077": [
    {
+    "id": "msg_ct_DEMO_0077_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-12T02:29:43.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0077_in",
     "direction": "inbound",
     "dateAdded": "2026-09-12T02:29:46.000Z",
@@ -8046,6 +8529,13 @@
    }
   ],
   "ct_DEMO_0078": [
+   {
+    "id": "msg_ct_DEMO_0078_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-15T19:06:35.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0078_in",
     "direction": "inbound",
@@ -8061,6 +8551,13 @@
   ],
   "ct_DEMO_0079": [
    {
+    "id": "msg_ct_DEMO_0079_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-14T19:19:06.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0079_in",
     "direction": "inbound",
     "dateAdded": "2026-09-14T19:19:09.000Z",
@@ -8074,6 +8571,13 @@
    }
   ],
   "ct_DEMO_0080": [
+   {
+    "id": "msg_ct_DEMO_0080_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-14T22:14:13.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0080_in",
     "direction": "inbound",
@@ -8089,6 +8593,13 @@
   ],
   "ct_DEMO_0082": [
    {
+    "id": "msg_ct_DEMO_0082_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-25T06:31:28.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0082_in",
     "direction": "inbound",
     "dateAdded": "2026-09-25T06:31:31.000Z",
@@ -8102,6 +8613,13 @@
    }
   ],
   "ct_DEMO_0083": [
+   {
+    "id": "msg_ct_DEMO_0083_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-24T08:29:38.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0083_in",
     "direction": "inbound",
@@ -8117,6 +8635,13 @@
   ],
   "ct_DEMO_0084": [
    {
+    "id": "msg_ct_DEMO_0084_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-18T20:31:51.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0084_in",
     "direction": "inbound",
     "dateAdded": "2026-09-18T20:31:54.000Z",
@@ -8130,6 +8655,13 @@
    }
   ],
   "ct_DEMO_0085": [
+   {
+    "id": "msg_ct_DEMO_0085_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-19T03:36:06.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0085_in",
     "direction": "inbound",
@@ -8145,6 +8677,13 @@
   ],
   "ct_DEMO_0086": [
    {
+    "id": "msg_ct_DEMO_0086_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-20T23:27:07.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0086_in",
     "direction": "inbound",
     "dateAdded": "2026-09-20T23:27:10.000Z",
@@ -8158,6 +8697,13 @@
    }
   ],
   "ct_DEMO_0087": [
+   {
+    "id": "msg_ct_DEMO_0087_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-19T23:17:06.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0087_in",
     "direction": "inbound",
@@ -8173,6 +8719,13 @@
   ],
   "ct_DEMO_0088": [
    {
+    "id": "msg_ct_DEMO_0088_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-18T18:27:35.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0088_in",
     "direction": "inbound",
     "dateAdded": "2026-09-18T18:27:38.000Z",
@@ -8186,6 +8739,13 @@
    }
   ],
   "ct_DEMO_0089": [
+   {
+    "id": "msg_ct_DEMO_0089_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-21T10:45:51.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0089_in",
     "direction": "inbound",
@@ -8201,6 +8761,13 @@
   ],
   "ct_DEMO_0090": [
    {
+    "id": "msg_ct_DEMO_0090_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-24T23:05:28.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0090_in",
     "direction": "inbound",
     "dateAdded": "2026-09-24T23:05:31.000Z",
@@ -8214,6 +8781,13 @@
    }
   ],
   "ct_DEMO_0091": [
+   {
+    "id": "msg_ct_DEMO_0091_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-20T05:38:37.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0091_in",
     "direction": "inbound",
@@ -8229,6 +8803,13 @@
   ],
   "ct_DEMO_0092": [
    {
+    "id": "msg_ct_DEMO_0092_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-24T03:49:12.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0092_in",
     "direction": "inbound",
     "dateAdded": "2026-09-24T03:49:15.000Z",
@@ -8242,6 +8823,13 @@
    }
   ],
   "ct_DEMO_0093": [
+   {
+    "id": "msg_ct_DEMO_0093_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-23T21:44:58.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0093_in",
     "direction": "inbound",
@@ -8257,6 +8845,13 @@
   ],
   "ct_DEMO_0094": [
    {
+    "id": "msg_ct_DEMO_0094_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-23T07:15:48.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0094_in",
     "direction": "inbound",
     "dateAdded": "2026-09-23T07:15:51.000Z",
@@ -8270,6 +8865,13 @@
    }
   ],
   "ct_DEMO_0095": [
+   {
+    "id": "msg_ct_DEMO_0095_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-21T19:16:43.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0095_in",
     "direction": "inbound",
@@ -8285,6 +8887,13 @@
   ],
   "ct_DEMO_0096": [
    {
+    "id": "msg_ct_DEMO_0096_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-01T04:15:54.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0096_in",
     "direction": "inbound",
     "dateAdded": "2026-10-01T04:15:57.000Z",
@@ -8298,6 +8907,13 @@
    }
   ],
   "ct_DEMO_0097": [
+   {
+    "id": "msg_ct_DEMO_0097_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-28T08:17:40.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0097_in",
     "direction": "inbound",
@@ -8313,6 +8929,13 @@
   ],
   "ct_DEMO_0098": [
    {
+    "id": "msg_ct_DEMO_0098_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-29T20:17:13.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0098_in",
     "direction": "inbound",
     "dateAdded": "2026-09-29T20:17:16.000Z",
@@ -8326,6 +8949,13 @@
    }
   ],
   "ct_DEMO_0100": [
+   {
+    "id": "msg_ct_DEMO_0100_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-26T05:04:35.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0100_in",
     "direction": "inbound",
@@ -8341,6 +8971,13 @@
   ],
   "ct_DEMO_0101": [
    {
+    "id": "msg_ct_DEMO_0101_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-30T09:20:39.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0101_in",
     "direction": "inbound",
     "dateAdded": "2026-09-30T09:20:42.000Z",
@@ -8354,6 +8991,13 @@
    }
   ],
   "ct_DEMO_0102": [
+   {
+    "id": "msg_ct_DEMO_0102_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-30T10:13:20.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0102_in",
     "direction": "inbound",
@@ -8369,6 +9013,13 @@
   ],
   "ct_DEMO_0103": [
    {
+    "id": "msg_ct_DEMO_0103_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-02T09:13:01.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0103_in",
     "direction": "inbound",
     "dateAdded": "2026-10-02T09:13:04.000Z",
@@ -8382,6 +9033,13 @@
    }
   ],
   "ct_DEMO_0104": [
+   {
+    "id": "msg_ct_DEMO_0104_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-01T08:09:35.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0104_in",
     "direction": "inbound",
@@ -8397,6 +9055,13 @@
   ],
   "ct_DEMO_0105": [
    {
+    "id": "msg_ct_DEMO_0105_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-26T06:08:40.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0105_in",
     "direction": "inbound",
     "dateAdded": "2026-09-26T06:08:43.000Z",
@@ -8410,6 +9075,13 @@
    }
   ],
   "ct_DEMO_0106": [
+   {
+    "id": "msg_ct_DEMO_0106_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-30T06:08:27.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0106_in",
     "direction": "inbound",
@@ -8425,6 +9097,13 @@
   ],
   "ct_DEMO_0107": [
    {
+    "id": "msg_ct_DEMO_0107_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-26T03:16:23.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0107_in",
     "direction": "inbound",
     "dateAdded": "2026-09-26T03:16:26.000Z",
@@ -8438,6 +9117,13 @@
    }
   ],
   "ct_DEMO_0108": [
+   {
+    "id": "msg_ct_DEMO_0108_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-02T12:37:18.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0108_in",
     "direction": "inbound",
@@ -8453,6 +9139,13 @@
   ],
   "ct_DEMO_0109": [
    {
+    "id": "msg_ct_DEMO_0109_act",
+    "direction": "outbound",
+    "dateAdded": "2026-09-29T15:14:43.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0109_in",
     "direction": "inbound",
     "dateAdded": "2026-09-29T15:14:46.000Z",
@@ -8466,6 +9159,13 @@
    }
   ],
   "ct_DEMO_0110": [
+   {
+    "id": "msg_ct_DEMO_0110_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-06T05:44:52.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0110_in",
     "direction": "inbound",
@@ -8481,6 +9181,13 @@
   ],
   "ct_DEMO_0111": [
    {
+    "id": "msg_ct_DEMO_0111_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-04T12:38:55.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0111_in",
     "direction": "inbound",
     "dateAdded": "2026-10-04T12:38:58.000Z",
@@ -8494,6 +9201,13 @@
    }
   ],
   "ct_DEMO_0112": [
+   {
+    "id": "msg_ct_DEMO_0112_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-08T03:54:49.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0112_in",
     "direction": "inbound",
@@ -8509,6 +9223,13 @@
   ],
   "ct_DEMO_0113": [
    {
+    "id": "msg_ct_DEMO_0113_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-06T14:02:17.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0113_in",
     "direction": "inbound",
     "dateAdded": "2026-10-06T14:02:20.000Z",
@@ -8522,6 +9243,13 @@
    }
   ],
   "ct_DEMO_0114": [
+   {
+    "id": "msg_ct_DEMO_0114_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-05T22:57:38.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0114_in",
     "direction": "inbound",
@@ -8537,6 +9265,13 @@
   ],
   "ct_DEMO_0115": [
    {
+    "id": "msg_ct_DEMO_0115_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-06T08:00:14.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0115_in",
     "direction": "inbound",
     "dateAdded": "2026-10-06T08:00:17.000Z",
@@ -8550,6 +9285,13 @@
    }
   ],
   "ct_DEMO_0116": [
+   {
+    "id": "msg_ct_DEMO_0116_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-09T14:58:56.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0116_in",
     "direction": "inbound",
@@ -8565,6 +9307,13 @@
   ],
   "ct_DEMO_0117": [
    {
+    "id": "msg_ct_DEMO_0117_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-06T16:07:39.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0117_in",
     "direction": "inbound",
     "dateAdded": "2026-10-06T16:07:42.000Z",
@@ -8578,6 +9327,13 @@
    }
   ],
   "ct_DEMO_0118": [
+   {
+    "id": "msg_ct_DEMO_0118_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-08T15:37:54.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0118_in",
     "direction": "inbound",
@@ -8593,6 +9349,13 @@
   ],
   "ct_DEMO_0120": [
    {
+    "id": "msg_ct_DEMO_0120_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-03T19:01:03.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0120_in",
     "direction": "inbound",
     "dateAdded": "2026-10-03T19:01:06.000Z",
@@ -8606,6 +9369,13 @@
    }
   ],
   "ct_DEMO_0121": [
+   {
+    "id": "msg_ct_DEMO_0121_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-04T04:40:02.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0121_in",
     "direction": "inbound",
@@ -8621,6 +9391,13 @@
   ],
   "ct_DEMO_0122": [
    {
+    "id": "msg_ct_DEMO_0122_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-02T19:55:28.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0122_in",
     "direction": "inbound",
     "dateAdded": "2026-10-02T19:55:31.000Z",
@@ -8634,6 +9411,13 @@
    }
   ],
   "ct_DEMO_0123": [
+   {
+    "id": "msg_ct_DEMO_0123_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-06T19:45:00.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0123_in",
     "direction": "inbound",
@@ -8649,6 +9433,13 @@
   ],
   "ct_DEMO_0124": [
    {
+    "id": "msg_ct_DEMO_0124_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-07T18:12:52.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0124_in",
     "direction": "inbound",
     "dateAdded": "2026-10-07T18:12:55.000Z",
@@ -8662,6 +9453,13 @@
    }
   ],
   "ct_DEMO_0125": [
+   {
+    "id": "msg_ct_DEMO_0125_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-06T17:47:37.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0125_in",
     "direction": "inbound",
@@ -8677,6 +9475,13 @@
   ],
   "ct_DEMO_0126": [
    {
+    "id": "msg_ct_DEMO_0126_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-12T06:17:31.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0126_in",
     "direction": "inbound",
     "dateAdded": "2026-10-12T06:17:34.000Z",
@@ -8690,6 +9495,13 @@
    }
   ],
   "ct_DEMO_0128": [
+   {
+    "id": "msg_ct_DEMO_0128_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-11T19:33:20.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0128_in",
     "direction": "inbound",
@@ -8705,6 +9517,13 @@
   ],
   "ct_DEMO_0129": [
    {
+    "id": "msg_ct_DEMO_0129_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-10T21:26:58.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0129_in",
     "direction": "inbound",
     "dateAdded": "2026-10-10T21:27:01.000Z",
@@ -8718,6 +9537,13 @@
    }
   ],
   "ct_DEMO_0130": [
+   {
+    "id": "msg_ct_DEMO_0130_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-13T09:33:09.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0130_in",
     "direction": "inbound",
@@ -8733,6 +9559,13 @@
   ],
   "ct_DEMO_0131": [
    {
+    "id": "msg_ct_DEMO_0131_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-15T13:45:12.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0131_in",
     "direction": "inbound",
     "dateAdded": "2026-10-15T13:45:15.000Z",
@@ -8746,6 +9579,13 @@
    }
   ],
   "ct_DEMO_0132": [
+   {
+    "id": "msg_ct_DEMO_0132_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-12T10:25:27.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0132_in",
     "direction": "inbound",
@@ -8761,6 +9601,13 @@
   ],
   "ct_DEMO_0133": [
    {
+    "id": "msg_ct_DEMO_0133_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-16T05:30:43.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0133_in",
     "direction": "inbound",
     "dateAdded": "2026-10-16T05:30:46.000Z",
@@ -8774,6 +9621,13 @@
    }
   ],
   "ct_DEMO_0135": [
+   {
+    "id": "msg_ct_DEMO_0135_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-13T05:16:50.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0135_in",
     "direction": "inbound",
@@ -8789,6 +9643,13 @@
   ],
   "ct_DEMO_0136": [
    {
+    "id": "msg_ct_DEMO_0136_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-14T10:59:07.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0136_in",
     "direction": "inbound",
     "dateAdded": "2026-10-14T10:59:10.000Z",
@@ -8802,6 +9663,13 @@
    }
   ],
   "ct_DEMO_0137": [
+   {
+    "id": "msg_ct_DEMO_0137_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-12T15:13:23.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0137_in",
     "direction": "inbound",
@@ -8817,6 +9685,13 @@
   ],
   "ct_DEMO_0138": [
    {
+    "id": "msg_ct_DEMO_0138_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-16T13:10:06.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0138_in",
     "direction": "inbound",
     "dateAdded": "2026-10-16T13:10:09.000Z",
@@ -8830,6 +9705,13 @@
    }
   ],
   "ct_DEMO_0139": [
+   {
+    "id": "msg_ct_DEMO_0139_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-15T10:56:32.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0139_in",
     "direction": "inbound",
@@ -8845,6 +9727,13 @@
   ],
   "ct_DEMO_0140": [
    {
+    "id": "msg_ct_DEMO_0140_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-14T00:31:08.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0140_in",
     "direction": "inbound",
     "dateAdded": "2026-10-14T00:31:11.000Z",
@@ -8858,6 +9747,13 @@
    }
   ],
   "ct_DEMO_0143": [
+   {
+    "id": "msg_ct_DEMO_0143_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-14T07:36:12.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0143_in",
     "direction": "inbound",
@@ -8873,6 +9769,13 @@
   ],
   "ct_DEMO_0144": [
    {
+    "id": "msg_ct_DEMO_0144_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-12T10:38:53.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0144_in",
     "direction": "inbound",
     "dateAdded": "2026-10-12T10:38:56.000Z",
@@ -8886,6 +9789,13 @@
    }
   ],
   "ct_DEMO_0145": [
+   {
+    "id": "msg_ct_DEMO_0145_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-10T11:26:06.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0145_in",
     "direction": "inbound",
@@ -8901,6 +9811,13 @@
   ],
   "ct_DEMO_0146": [
    {
+    "id": "msg_ct_DEMO_0146_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-12T11:07:49.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0146_in",
     "direction": "inbound",
     "dateAdded": "2026-10-12T11:07:52.000Z",
@@ -8914,6 +9831,13 @@
    }
   ],
   "ct_DEMO_0147": [
+   {
+    "id": "msg_ct_DEMO_0147_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-12T08:09:17.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0147_in",
     "direction": "inbound",
@@ -8929,6 +9853,13 @@
   ],
   "ct_DEMO_0148": [
    {
+    "id": "msg_ct_DEMO_0148_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-20T17:32:58.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0148_in",
     "direction": "inbound",
     "dateAdded": "2026-10-20T17:33:01.000Z",
@@ -8942,6 +9873,13 @@
    }
   ],
   "ct_DEMO_0150": [
+   {
+    "id": "msg_ct_DEMO_0150_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-21T03:14:47.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0150_in",
     "direction": "inbound",
@@ -8957,6 +9895,13 @@
   ],
   "ct_DEMO_0151": [
    {
+    "id": "msg_ct_DEMO_0151_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-19T11:39:07.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0151_in",
     "direction": "inbound",
     "dateAdded": "2026-10-19T11:39:10.000Z",
@@ -8970,6 +9915,13 @@
    }
   ],
   "ct_DEMO_0152": [
+   {
+    "id": "msg_ct_DEMO_0152_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-22T22:50:36.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0152_in",
     "direction": "inbound",
@@ -8985,6 +9937,13 @@
   ],
   "ct_DEMO_0153": [
    {
+    "id": "msg_ct_DEMO_0153_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-19T06:54:12.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0153_in",
     "direction": "inbound",
     "dateAdded": "2026-10-19T06:54:15.000Z",
@@ -8998,6 +9957,13 @@
    }
   ],
   "ct_DEMO_0154": [
+   {
+    "id": "msg_ct_DEMO_0154_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-21T23:18:41.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0154_in",
     "direction": "inbound",
@@ -9013,6 +9979,13 @@
   ],
   "ct_DEMO_0155": [
    {
+    "id": "msg_ct_DEMO_0155_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-22T22:23:32.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0155_in",
     "direction": "inbound",
     "dateAdded": "2026-10-22T22:23:35.000Z",
@@ -9026,6 +9999,13 @@
    }
   ],
   "ct_DEMO_0156": [
+   {
+    "id": "msg_ct_DEMO_0156_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-21T02:42:19.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0156_in",
     "direction": "inbound",
@@ -9041,6 +10021,13 @@
   ],
   "ct_DEMO_0158": [
    {
+    "id": "msg_ct_DEMO_0158_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-21T12:46:44.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0158_in",
     "direction": "inbound",
     "dateAdded": "2026-10-21T12:46:47.000Z",
@@ -9054,6 +10041,13 @@
    }
   ],
   "ct_DEMO_0159": [
+   {
+    "id": "msg_ct_DEMO_0159_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-17T11:03:20.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0159_in",
     "direction": "inbound",
@@ -9069,6 +10063,13 @@
   ],
   "ct_DEMO_0160": [
    {
+    "id": "msg_ct_DEMO_0160_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-19T06:25:49.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0160_in",
     "direction": "inbound",
     "dateAdded": "2026-10-19T06:25:52.000Z",
@@ -9082,6 +10083,13 @@
    }
   ],
   "ct_DEMO_0161": [
+   {
+    "id": "msg_ct_DEMO_0161_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-17T15:26:33.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0161_in",
     "direction": "inbound",
@@ -9097,6 +10105,13 @@
   ],
   "ct_DEMO_0164": [
    {
+    "id": "msg_ct_DEMO_0164_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-26T00:42:31.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0164_in",
     "direction": "inbound",
     "dateAdded": "2026-10-26T00:42:34.000Z",
@@ -9110,6 +10125,13 @@
    }
   ],
   "ct_DEMO_0165": [
+   {
+    "id": "msg_ct_DEMO_0165_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-29T06:52:59.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0165_in",
     "direction": "inbound",
@@ -9125,6 +10147,13 @@
   ],
   "ct_DEMO_0166": [
    {
+    "id": "msg_ct_DEMO_0166_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-27T00:35:25.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0166_in",
     "direction": "inbound",
     "dateAdded": "2026-10-27T00:35:28.000Z",
@@ -9138,6 +10167,13 @@
    }
   ],
   "ct_DEMO_0167": [
+   {
+    "id": "msg_ct_DEMO_0167_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-23T23:15:49.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0167_in",
     "direction": "inbound",
@@ -9153,6 +10189,13 @@
   ],
   "ct_DEMO_0168": [
    {
+    "id": "msg_ct_DEMO_0168_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-24T18:06:29.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0168_in",
     "direction": "inbound",
     "dateAdded": "2026-10-24T18:06:32.000Z",
@@ -9166,6 +10209,13 @@
    }
   ],
   "ct_DEMO_0169": [
+   {
+    "id": "msg_ct_DEMO_0169_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-25T05:41:20.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0169_in",
     "direction": "inbound",
@@ -9181,6 +10231,13 @@
   ],
   "ct_DEMO_0172": [
    {
+    "id": "msg_ct_DEMO_0172_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-28T05:54:23.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0172_in",
     "direction": "inbound",
     "dateAdded": "2026-10-28T05:54:26.000Z",
@@ -9194,6 +10251,13 @@
    }
   ],
   "ct_DEMO_0174": [
+   {
+    "id": "msg_ct_DEMO_0174_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-24T19:20:30.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0174_in",
     "direction": "inbound",
@@ -9209,6 +10273,13 @@
   ],
   "ct_DEMO_0175": [
    {
+    "id": "msg_ct_DEMO_0175_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-24T07:34:16.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0175_in",
     "direction": "inbound",
     "dateAdded": "2026-10-24T07:34:19.000Z",
@@ -9222,6 +10293,13 @@
    }
   ],
   "ct_DEMO_0176": [
+   {
+    "id": "msg_ct_DEMO_0176_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-29T12:15:02.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0176_in",
     "direction": "inbound",
@@ -9237,6 +10315,13 @@
   ],
   "ct_DEMO_0177": [
    {
+    "id": "msg_ct_DEMO_0177_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-25T01:20:09.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0177_in",
     "direction": "inbound",
     "dateAdded": "2026-10-25T01:20:12.000Z",
@@ -9250,6 +10335,13 @@
    }
   ],
   "ct_DEMO_0178": [
+   {
+    "id": "msg_ct_DEMO_0178_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-26T06:38:32.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0178_in",
     "direction": "inbound",
@@ -9265,6 +10357,13 @@
   ],
   "ct_DEMO_0179": [
    {
+    "id": "msg_ct_DEMO_0179_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-24T07:39:37.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
+   {
     "id": "msg_ct_DEMO_0179_in",
     "direction": "inbound",
     "dateAdded": "2026-10-24T07:39:40.000Z",
@@ -9278,6 +10377,13 @@
    }
   ],
   "ct_DEMO_0180": [
+   {
+    "id": "msg_ct_DEMO_0180_act",
+    "direction": "outbound",
+    "dateAdded": "2026-10-28T12:32:44.000Z",
+    "messageType": "TYPE_ACTIVITY_OPPORTUNITY",
+    "body": "Opportunity created"
+   },
    {
     "id": "msg_ct_DEMO_0180_in",
     "direction": "inbound",

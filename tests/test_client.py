@@ -84,8 +84,12 @@ def test_opportunity_cursor_that_does_not_move_stops():
     assert len(list(GHLClient("tok", "loc_1").opportunities())) == 2  # first page + one repeat, then stop
 
 
-def test_first_outbound_message(client):
-    assert parse_ts(client.first_outbound_message_at("ct_DEMO_0001")) is not None
+def test_first_outbound_message_skips_system_activity(client, mock_session):
+    msgs = mock_session.data["messages"]["ct_DEMO_0001"]
+    activity = next(m for m in msgs if m["messageType"].startswith("TYPE_ACTIVITY"))
+    real = next(m for m in msgs if m["messageType"] == "TYPE_SMS" and m["direction"] == "outbound")
+    assert activity["dateAdded"] < real["dateAdded"]  # the activity entry is earlier...
+    assert client.first_outbound_message_at("ct_DEMO_0001") == real["dateAdded"]  # ...but is not the reply
     assert client.first_outbound_message_at("ct_DOES_NOT_EXIST") is None
 
 
