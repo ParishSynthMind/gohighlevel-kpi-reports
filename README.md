@@ -83,7 +83,7 @@ For Postgres: `pip install "psycopg[binary]"` and set `DATABASE_URL=postgresql+p
 - **KPIs:** a small hand-built dataset with every number checked exactly (leads per week, sources, conversion including a deal that moved backwards, win rate, show rate, speed buckets), data after the report date ignored, an empty database giving "n/a" rather than crashing.
 - **Outputs:** the Claude call (model, low effort, numbers-only instruction) with a fake client, template fallback when the AI fails, invented numbers flagged, "Page N of M" on every PDF page with the date top right of page 1 only, dashboard escaping and no external scripts, empty pipelines and no appointments rendering cleanly, staleness rules, webhook alert, and the CLI end to end including a failing sync raising an alert.
 
-Set `TEST_DATABASE_URL` (for example `postgresql+psycopg://user@localhost:5432/ghl_kpi_test`) to run the same tests on Postgres.
+GitHub Actions runs the suite on Python 3.9 and 3.12 with SQLite, and again against a Postgres 16 service container, then does a full mock run each time. Set `TEST_DATABASE_URL` (for example `postgresql+psycopg://user@localhost:5432/ghl_kpi_test`) to run the tests on your own Postgres.
 
 ## Status
 
@@ -109,7 +109,7 @@ Honest limits:
 
 ## Stack
 
-Python · GoHighLevel API v2 (Private Integration token) · SQLAlchemy (SQLite / Postgres) · Anthropic Claude API · ReportLab + Matplotlib (PDF) · inline SVG (dashboard) · pytest + responses
+Python · GoHighLevel API v2 (Private Integration token) · SQLAlchemy (SQLite / Postgres) · Anthropic Claude API · ReportLab + Matplotlib (PDF) · inline SVG (dashboard) · pytest + responses · GitHub Actions
 
 ## Licence
 
